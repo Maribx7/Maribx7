@@ -9,4 +9,4 @@
 - **Tools**: Git, Docker, Kubernet,
 
 📫 **Let's connect**:
-Feel free to reach out for collaboration or to discuss tech! You can contact me via [LinkedIn](https://www.linkedin.com/in/marilyn-acu%C3%B1a-a670952a8/)) or [Instagram]((https://www.instagram.com/maribx7/?hl=es-la)).
+Feel free to reach out for collaboration or to discuss tech! You can contact me via [LinkedIn](https://www.linkedin.com/in/marilyn-acu%C3%B1a-a670952a8/) or [Instagram](https://www.instagram.com/maribx7/?hl=es-la).
